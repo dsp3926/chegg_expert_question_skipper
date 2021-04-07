@@ -1,7 +1,3 @@
 # chegg_expert_question_skipper
-## H2
-### H3
-#### H4
-##### H5
-
-[guru](https://google.com)
+## Skip Chegg questions for every 10 seconds using python, Enter 0 to stop program
+## Ensure you have given correct display coordinates to work properly
