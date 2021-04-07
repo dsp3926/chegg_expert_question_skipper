@@ -18,8 +18,11 @@ def stop():
 def skip():
     while True:
         print("Loading......")
+        #Click Enter Button
         p.click(913,687)
+        #Choosing 'I have no subject Knowledge' option
         p.press('left')
+        #Click Submit
         p.click(1182,582)
         time.sleep(10)       
 p1 = Thread(target=skip)
